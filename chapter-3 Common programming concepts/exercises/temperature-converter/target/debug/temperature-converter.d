@@ -1,0 +1,1 @@
+/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-3\ Common\ programming\ concepts/exercises/temperature-converter/target/debug/temperature-converter: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-3\ Common\ programming\ concepts/exercises/temperature-converter/src/main.rs
