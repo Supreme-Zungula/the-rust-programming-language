@@ -1,0 +1,1 @@
+/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-4\ Understanding\ Ownership/ch4-1\ What\ is\ ownership/ownerships-and-functions/target/debug/ownerships-and-functions: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-4\ Understanding\ Ownership/ch4-1\ What\ is\ ownership/ownerships-and-functions/src/main.rs
