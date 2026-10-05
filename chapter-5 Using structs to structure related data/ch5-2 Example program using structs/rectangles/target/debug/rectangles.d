@@ -1,0 +1,1 @@
+/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-5\ Using\ structs\ to\ structure\ related\ data/ch5-2\ Example\ program\ using\ structs/rectangles/target/debug/rectangles: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-5\ Using\ structs\ to\ structure\ related\ data/ch5-2\ Example\ program\ using\ structs/rectangles/src/main.rs
