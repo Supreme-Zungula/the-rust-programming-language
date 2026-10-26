@@ -1,0 +1,12 @@
+/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8 Common Collections/exercises/vector-median-and-mode/target/debug/deps/chacha20-515ed56128886faf.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/variants.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/rng.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/../README.md /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/soft.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/avx2.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/sse2.rs
+
+/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8 Common Collections/exercises/vector-median-and-mode/target/debug/deps/libchacha20-515ed56128886faf.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/variants.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/rng.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/../README.md /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/soft.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/avx2.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/sse2.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/variants.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/rng.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/../README.md:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/soft.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/avx2.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/chacha20-0.10.2/src/backends/sse2.rs:
