@@ -12,9 +12,6 @@ fn main() {
         process::exit(1);
     });
 
-    println!("Search for {}", config.query);
-    println!("in file {}", config.file_path);
-
     if let Err(e) = run(config) {
         println!("Application error: {e}");
         process::exit(1);
@@ -45,8 +42,6 @@ fn run(config: Config) -> Result<(), Box<dyn Error>> {
     for line in search(&config.query, &contents) {
         println!("{line}");
     }
-
-    println!("With text:\n {contents}");
 
     Ok(())
 }
