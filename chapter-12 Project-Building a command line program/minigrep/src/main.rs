@@ -1,3 +1,4 @@
+use minigrep::search;
 use std::env;
 use std::error::Error;
 use std::fs;
@@ -40,6 +41,10 @@ impl Config {
 
 fn run(config: Config) -> Result<(), Box<dyn Error>> {
     let contents = fs::read_to_string(config.file_path)?;
+
+    for line in search(&config.query, &contents) {
+        println!("{line}");
+    }
 
     println!("With text:\n {contents}");
 
