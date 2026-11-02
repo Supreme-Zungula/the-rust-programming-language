@@ -1,1 +1,0 @@
-/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8\ Common\ Collections/vectors/target/debug/vectors: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8\ Common\ Collections/vectors/src/main.rs

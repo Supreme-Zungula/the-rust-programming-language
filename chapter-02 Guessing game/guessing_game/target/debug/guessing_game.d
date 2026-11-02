@@ -1,1 +1,0 @@
-/root/Dev-Sandbox/Rust-Programming/the-rust-programming-language/chapter-2/guessing_game/target/debug/guessing_game: /root/Dev-Sandbox/Rust-Programming/the-rust-programming-language/chapter-2/guessing_game/src/main.rs

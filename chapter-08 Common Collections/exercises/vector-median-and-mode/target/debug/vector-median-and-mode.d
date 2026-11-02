@@ -1,1 +1,0 @@
-/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8\ Common\ Collections/exercises/vector-median-and-mode/target/debug/vector-median-and-mode: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8\ Common\ Collections/exercises/vector-median-and-mode/src/main.rs

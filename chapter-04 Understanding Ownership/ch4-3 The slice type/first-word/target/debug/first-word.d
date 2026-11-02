@@ -1,1 +1,0 @@
-/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-4\ Understanding\ Ownership/ch4-3\ The\ slice\ type/first-word/target/debug/first-word: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-4\ Understanding\ Ownership/ch4-3\ The\ slice\ type/first-word/src/main.rs

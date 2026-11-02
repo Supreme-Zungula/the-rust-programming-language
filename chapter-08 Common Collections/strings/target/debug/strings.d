@@ -1,1 +1,0 @@
-/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8\ Common\ Collections/strings/target/debug/strings: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-8\ Common\ Collections/strings/src/main.rs

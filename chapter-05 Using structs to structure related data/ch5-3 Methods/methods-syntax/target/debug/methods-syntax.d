@@ -1,1 +1,0 @@
-/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-5\ Using\ structs\ to\ structure\ related\ data/ch5-3\ Methods/methods-syntax/target/debug/methods-syntax: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-5\ Using\ structs\ to\ structure\ related\ data/ch5-3\ Methods/methods-syntax/src/main.rs

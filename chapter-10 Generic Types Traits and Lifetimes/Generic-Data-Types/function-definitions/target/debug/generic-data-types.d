@@ -1,1 +1,0 @@
-/root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-10\ Generic\ Types\ Traits\ and\ Lifetimes/generic-data-types/target/debug/generic-data-types: /root/Sandbox/Rust-Programming/the-rust-programming-language/chapter-10\ Generic\ Types\ Traits\ and\ Lifetimes/generic-data-types/src/main.rs
