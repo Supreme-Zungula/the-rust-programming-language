@@ -1,0 +1,6 @@
+[package]
+name = "ch15-02-Treating-smart-pointer-like-regular-references"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
