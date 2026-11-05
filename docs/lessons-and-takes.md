@@ -157,3 +157,14 @@ Sharing code with Cargo and crates.io is part of what makes the Rust ecosystem u
 ### Questions
 
 - Does `cargo install` only work for binary crates build with Rust?
+
+## Chapter 15 Smart pointers
+
+I learnt about the types of Smart pointers, namely the `Box<T>`, `Rc<T>` and `RefCell<T>`. `Deref` and `Drop` traits were also discussed which enable a lot of the functionality of smart pointers.
+
+### Lessons
+
+- **Box<T>**: pointer has a known size and points data allocated on the Heap. It can point to mutable or immutable data.
+- **Rc<T>**: Short *Reference counted* pointer keeps track of the number of references to data that is stored on the heap.
+- **RefCell<T>**: Type has interior mutability meaning it gives us a type that we can use when we need a immutable type but need to change the inner values, it also enforces borrowing rules at runtime.
+- **Weak<T>**: Helps us avoid cycle references that can lead to memory leaks when using `Rc<T>` and `RefCell<T>` together. It provides a mechanism to makes cyclic reference weak where specified by providing a `downgrade` method. Think means that when the reference with a strong reference is dropped then the ones with a weak link will be dropped but not vice versa.
