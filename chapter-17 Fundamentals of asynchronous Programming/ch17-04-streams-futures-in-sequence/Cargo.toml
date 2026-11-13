@@ -1,0 +1,7 @@
+[package]
+name = "ch17-04-streams-futures-in-sequence"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+trpl = "0.3.0"
