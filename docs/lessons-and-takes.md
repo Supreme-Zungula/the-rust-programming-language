@@ -168,3 +168,27 @@ I learnt about the types of Smart pointers, namely the `Box<T>`, `Rc<T>` and `Re
 - **Rc<T>**: Short *Reference counted* pointer keeps track of the number of references to data that is stored on the heap.
 - **RefCell<T>**: Type has interior mutability meaning it gives us a type that we can use when we need a immutable type but need to change the inner values, it also enforces borrowing rules at runtime.
 - **Weak<T>**: Helps us avoid cycle references that can lead to memory leaks when using `Rc<T>` and `RefCell<T>` together. It provides a mechanism to makes cyclic reference weak where specified by providing a `downgrade` method. Think means that when the reference with a strong reference is dropped then the ones with a weak link will be dropped but not vice versa.
+
+### Takes
+
+- Smart pointer provide safe ways to deal with data stored in the heap or whose size in not known at compile time.
+- `RefCell<T>` is slightly confusing but I will probably understand it better the more I used it.
+
+
+## Chapter 16 Fearles Concurrency
+
+Litle of how Rust handels concurrency is part of the language, many concurrency solutions are implemented as crates. The Rust standard library provides channel for message passing and smart pointer types, such as `Mutex<T>` and  `Arc<T>` that are safe to use in concurrent contexts.
+
+### Lessons
+- **`Mutex<T> `**: is an abbreviation for *Mutual  Exclusion*, it allows only one thread to access some data at any given time. Thread must first signal intent to access data buy calling the *lock* method. Example : 
+```rust
+    use std::sync::Mutex;
+    fn main() {
+        let m = Mutex::new(5);
+        { 
+            let mut num  = m.lock().unwrap();
+            *num = 6;
+       }
+    }
+```
+-  **`Arc<T>`**: *Atomic reference counting*, is  similar to  `Rc<T>`  but safe to use in concurrent situations. It is usually when you want to have multiple reference accross different thread access the same data safely.
